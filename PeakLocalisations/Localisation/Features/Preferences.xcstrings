@@ -57,6 +57,12 @@
             "state" : "translated",
             "value" : "Peak is designed & developed by Harshil Shah, in Mumbai, India."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak está diseñado y desarrollado por Harshil Shah, en Mumbai, India."
+          }
         }
       }
     },
@@ -67,6 +73,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "About the Developer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca del Desarrollador"
           }
         }
       }
@@ -1187,6 +1199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Website"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sitio web"
           }
         }
       }

@@ -32,6 +32,12 @@
             "state" : "translated",
             "value" : "Comparison"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparación"
+          }
         }
       }
     },
@@ -42,6 +48,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Month, Year, & All Time"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mes, Año y Todo el tiempo"
           }
         }
       }
@@ -54,6 +66,12 @@
             "state" : "translated",
             "value" : "Ongoing"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En curso"
+          }
         }
       }
     },
@@ -64,6 +82,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Week, Month, & Year"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semana, Mes y Año"
           }
         }
       }

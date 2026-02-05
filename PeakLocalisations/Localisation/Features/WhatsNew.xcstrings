@@ -55,6 +55,12 @@
             "state" : "translated",
             "value" : "Now in red, orange, green, blue, purple, silver, and gold!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Ahora en rojo, naranja, verde, azul, morado, plateado y dorado!"
+          }
         }
       }
     },
@@ -65,6 +71,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "New App Icons"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuevos Iconos de la App"
           }
         }
       }
@@ -219,16 +231,28 @@
             "state" : "translated",
             "value" : "The Totals block now shows your All Time stats"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El bloque de Totales ahora muestra sus estadísticas de Todos los Tiempos"
+          }
         }
       }
     },
-    "Totals.Title" : {
+    "Totals.Title " : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "All Time Totals"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totales de Todos los Tiempos"
           }
         }
       }
@@ -241,6 +265,12 @@
             "state" : "translated",
             "value" : "View short, medium, and long term trends at the same time"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vea tendencias a corto, mediano y largo plazo al mismo tiempo"
+          }
         }
       }
     },
@@ -251,6 +281,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Multi Trends"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Múltiples Tendencias"
           }
         }
       }

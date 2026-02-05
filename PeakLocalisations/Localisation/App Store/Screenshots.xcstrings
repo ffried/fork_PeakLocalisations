@@ -41,8 +41,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Alcanza sus Metas"
+            "state" : "translated",
+            "value" : "Metas y Propósitos que Realmente Cumplirá"
           }
         }
       }
@@ -64,8 +64,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Recapitule el Pasado"
+            "state" : "translated",
+            "value" : "Recapitule Su Trayectoria de Fitness"
           }
         }
       }
@@ -79,6 +79,12 @@
             "state" : "translated",
             "value" : "…Or Dive Into The Numbers"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "…O Profundice en los Números"
+          }
         }
       }
     },
@@ -90,6 +96,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visualize Your Progress…"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualice Su Progreso…"
           }
         }
       }
@@ -135,7 +147,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Privada por Diseño"
+            "value" : "Privado por Diseño"
           }
         }
       }
