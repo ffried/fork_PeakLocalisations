@@ -29,8 +29,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Erreiche deine Ziele"
+            "state" : "translated",
+            "value" : "Ziele und Vorsätze die du auch erreichts"
           }
         },
         "en" : {
@@ -52,8 +52,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Gestern zusammengefasst"
+            "state" : "translated",
+            "value" : "Fasse deine Fitness-Reise zusammen"
           }
         },
         "en" : {
@@ -74,6 +74,12 @@
       "comment" : "This sentence continues from the visualizations pitch",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "…Oder tauche in die Zahlen ein"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -92,6 +98,12 @@
       "comment" : "This sentence continues into the stats pitch",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualisiere deinen Fortschritt…"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

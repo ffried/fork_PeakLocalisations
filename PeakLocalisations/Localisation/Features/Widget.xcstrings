@@ -5,13 +5,33 @@
 
     },
     "%@" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        }
+      }
     },
     "%@ " : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        }
+      }
     },
     "%@ %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -22,6 +42,12 @@
     },
     "%@ %@ %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@ %3$@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -32,6 +58,12 @@
     },
     "%@ %@: %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ %2$@: %3$@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -74,6 +106,12 @@
     },
     "%@: %@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@: %2$@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -84,6 +122,12 @@
     },
     "%@%@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@%2$@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -245,28 +289,84 @@
       }
     },
     "DoNotLocalize.configKey" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DoNotLocalize.configKey"
+          }
+        }
+      }
     },
     "DoNotLocalize.dayComponents" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DoNotLocalize.dayComponents"
+          }
+        }
+      }
     },
     "DoNotLocalize.DeepLink" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DoNotLocalize.DeepLink"
+          }
+        }
+      }
     },
     "DoNotLocalize.HistoryWidgetDayPicker" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DoNotLocalize.HistoryWidgetDayPicker"
+          }
+        }
+      }
     },
     "DoNotLocalize.OpenDeepLink" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DoNotLocalize.OpenDeepLink"
+          }
+        }
+      }
     },
     "DoNotLocalize.period" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DoNotLocalize.period"
+          }
+        }
+      }
     },
     "DoNotLocalize.refresh" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DoNotLocalize.refresh"
+          }
+        }
+      }
     },
     "DoNotLocalize.TrendsChartPeriodPicker" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DoNotLocalize.TrendsChartPeriodPicker"
+          }
+        }
+      }
     },
     "Goal" : {
       "localizations" : {
@@ -663,7 +763,14 @@
       }
     },
     "Periods" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeiträume"
+          }
+        }
+      }
     },
     "RecentsWidget.Description" : {
       "localizations" : {

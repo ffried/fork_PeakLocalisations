@@ -27,6 +27,12 @@
     "Periods.Comparison" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vergleich"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44,6 +50,12 @@
     "Periods.MonthYearAllTime" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monat, Jahr & Gesamt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -61,6 +73,12 @@
     "Periods.Ongoing" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortlaufend"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -78,6 +96,12 @@
     "Periods.WeekMonthYear" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Woche, Monat & Jahr"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

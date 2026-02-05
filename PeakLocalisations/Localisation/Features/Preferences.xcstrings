@@ -52,6 +52,12 @@
     "About the Developer.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak wird von Harshil Shah in Mumbai, Indien, gestaltet & entwickelt."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -69,6 +75,12 @@
     "AboutTheDeveloper.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Über den Entwickler"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1195,6 +1207,12 @@
     "Website" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Webseite"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

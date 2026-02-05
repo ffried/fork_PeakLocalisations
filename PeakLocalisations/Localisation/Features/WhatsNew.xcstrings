@@ -50,6 +50,12 @@
     "Icons.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jetzt verfügbar in Rot, Orange, Grün, Blau, Violett, Silber und Gold!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -67,6 +73,12 @@
     "Icons.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue App Icons"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -226,6 +238,12 @@
     "Totals.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Summen Block zeigt dir deine Gesamt-Statistiken"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -243,6 +261,12 @@
     "Totals.Title " : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gesamt-Summen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -260,6 +284,12 @@
     "Trends.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kurzfristige, mittelfristige und langfristige Trends zusammengefasst"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -277,6 +307,12 @@
     "Trends.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mehrere Trends"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

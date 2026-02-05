@@ -1040,6 +1040,12 @@
     "Nature.Lagoon" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagune"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
