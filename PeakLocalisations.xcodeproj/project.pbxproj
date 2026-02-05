@@ -11,6 +11,7 @@
 		E81EA8A12C9D802B003A4023 /* Feedback.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E81EA89F2C9D802B003A4023 /* Feedback.xcstrings */; };
 		E81EA8A22C9D802B003A4023 /* Sync.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E81EA8A02C9D802B003A4023 /* Sync.xcstrings */; };
 		E88B42BF2C36739600A65CAC /* WatchSetup.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E88B42BE2C36739600A65CAC /* WatchSetup.xcstrings */; };
+		E88E3D7F2F34975900A4464A /* Totals.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E88E3D7E2F34975900A4464A /* Totals.xcstrings */; };
 		E8B3C1502B552E2800030D64 /* Formatting.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8B3C14F2B552E2800030D64 /* Formatting.xcstrings */; };
 		E8BE48D02B5517DE005075DC /* PeakLocalisationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BE48CF2B5517DE005075DC /* PeakLocalisationsApp.swift */; };
 		E8BE48FD2B551871005075DC /* Screenshots.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48DE2B551871005075DC /* Screenshots.xcstrings */; };
@@ -55,6 +56,7 @@
 		E81EA89F2C9D802B003A4023 /* Feedback.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Feedback.xcstrings; sourceTree = "<group>"; };
 		E81EA8A02C9D802B003A4023 /* Sync.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Sync.xcstrings; sourceTree = "<group>"; };
 		E88B42BE2C36739600A65CAC /* WatchSetup.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = WatchSetup.xcstrings; sourceTree = "<group>"; };
+		E88E3D7E2F34975900A4464A /* Totals.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Totals.xcstrings; sourceTree = "<group>"; };
 		E8B3C14F2B552E2800030D64 /* Formatting.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Formatting.xcstrings; sourceTree = "<group>"; };
 		E8BE48CC2B5517DE005075DC /* PeakLocalisations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PeakLocalisations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8BE48CF2B5517DE005075DC /* PeakLocalisationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeakLocalisationsApp.swift; sourceTree = "<group>"; };
@@ -173,12 +175,13 @@
 				E8E0FCAD2EFFE47B00C7E1C9 /* AddBlock.xcstrings */,
 				E8E0FCAE2EFFE47B00C7E1C9 /* AddGoal.xcstrings */,
 				E8BE48F32B551871005075DC /* Blocks.xcstrings */,
+				E8E0FCAF2EFFE47B00C7E1C9 /* Recommendations.xcstrings */,
 				E8BE48F42B551871005075DC /* Goals.xcstrings */,
 				E8BE48F52B551871005075DC /* GoalTitles.xcstrings */,
 				E8BE48F02B551871005075DC /* ConfigureGoal.xcstrings */,
-				E8E0FCAF2EFFE47B00C7E1C9 /* Recommendations.xcstrings */,
 				E8BE48EF2B551871005075DC /* Resolutions.xcstrings */,
 				E8BE48F22B551871005075DC /* Benchmark.xcstrings */,
+				E88E3D7E2F34975900A4464A /* Totals.xcstrings */,
 				E8BE48F12B551871005075DC /* Trends.xcstrings */,
 			);
 			path = Blocks;
@@ -284,6 +287,7 @@
 				E81EA8A12C9D802B003A4023 /* Feedback.xcstrings in Resources */,
 				E81EA8A22C9D802B003A4023 /* Sync.xcstrings in Resources */,
 				E8BE49142B551871005075DC /* Themes.xcstrings in Resources */,
+				E88E3D7F2F34975900A4464A /* Totals.xcstrings in Resources */,
 				E8BE49182B551871005075DC /* General.xcstrings in Resources */,
 				E8BE49132B551871005075DC /* Stats.xcstrings in Resources */,
 				E8BE49092B551871005075DC /* Preferences.xcstrings in Resources */,

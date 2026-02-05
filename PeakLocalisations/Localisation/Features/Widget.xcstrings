@@ -1,6 +1,45 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "" : {
+
+    },
+    "%@" : {
+
+    },
+    "%@ " : {
+
+    },
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "%@ %@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@ %3$@"
+          }
+        }
+      }
+    },
+    "%@ %@: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@: %3$@"
+          }
+        }
+      }
+    },
     "%@ Hold to set up" : {
       "localizations" : {
         "de" : {
@@ -33,6 +72,26 @@
         }
       }
     },
+    "%@: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@: %2$@"
+          }
+        }
+      }
+    },
+    "%@%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@%2$@"
+          }
+        }
+      }
+    },
     "All" : {
       "localizations" : {
         "de" : {
@@ -61,66 +120,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Todos"
-          }
-        }
-      }
-    },
-    "App Icon" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "App Icon"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Icono de App"
-          }
-        }
-      }
-    },
-    "AppIconWidget.Description" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Einfach ein grosses App Icon"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Just a big app icon."
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Solo un gran icono de app."
-          }
-        }
-      }
-    },
-    "AppIconWidget.Title" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "App Icon"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "App Icon"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Icono de App"
           }
         }
       }
@@ -229,22 +228,6 @@
         }
       }
     },
-    "Dark Mode Icon" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "App Icon im Dunkelmodus"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Icono de Tema Oscuro"
-          }
-        }
-      }
-    },
     "Dark Mode Theme" : {
       "localizations" : {
         "de" : {
@@ -260,6 +243,30 @@
           }
         }
       }
+    },
+    "DoNotLocalize.configKey" : {
+
+    },
+    "DoNotLocalize.dayComponents" : {
+
+    },
+    "DoNotLocalize.DeepLink" : {
+
+    },
+    "DoNotLocalize.HistoryWidgetDayPicker" : {
+
+    },
+    "DoNotLocalize.OpenDeepLink" : {
+
+    },
+    "DoNotLocalize.period" : {
+
+    },
+    "DoNotLocalize.refresh" : {
+
+    },
+    "DoNotLocalize.TrendsChartPeriodPicker" : {
+
     },
     "Goal" : {
       "localizations" : {
@@ -393,22 +400,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Déjelo vacío para mostrar tendencias para todos los tipos de entrenamiento."
-          }
-        }
-      }
-    },
-    "Light Mode Icon" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "App Icon im Hellmodus"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Icono de Tema Ligero"
           }
         }
       }
@@ -671,6 +662,9 @@
         }
       }
     },
+    "Periods" : {
+
+    },
     "RecentsWidget.Description" : {
       "localizations" : {
         "de" : {
@@ -811,18 +805,24 @@
         }
       }
     },
-    "Tap to Unlock Widget" : {
+    "Tap to Unlock" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tippen um das Widget zu entsperren"
+            "value" : "Zum Entsperren tippen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tap to Unlock"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toque para Desbloquear Widget"
+            "value" : "Toque para Desbloquear"
           }
         }
       }

@@ -49,6 +49,28 @@
         }
       }
     },
+    "About the Developer.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak is designed & developed by Harshil Shah, in Mumbai, India."
+          }
+        }
+      }
+    },
+    "AboutTheDeveloper.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About the Developer"
+          }
+        }
+      }
+    },
     "Appearance" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -950,25 +972,25 @@
         }
       }
     },
-    "Special Thanks To" : {
+    "Special Thanks" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Besonderen Dank an"
+            "value" : "Besonderen Dank"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Special Thanks To"
+            "value" : "Special Thanks"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agradecimiento especial a"
+            "value" : "Agradecimiento Especial"
           }
         }
       }
@@ -1077,7 +1099,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Third Party Libraries"
+            "value" : "Third-Party Libraries"
           }
         },
         "es" : {
@@ -1154,6 +1176,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Versión %@ (Compilación %@)"
+          }
+        }
+      }
+    },
+    "Website" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Website"
           }
         }
       }

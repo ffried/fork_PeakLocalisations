@@ -1037,6 +1037,23 @@
         }
       }
     },
+    "Nature.Lagoon" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagoon"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laguna"
+          }
+        }
+      }
+    },
     "Ochre" : {
       "extractionState" : "manual",
       "localizations" : {
